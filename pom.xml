@@ -7,7 +7,7 @@
 
     <groupId>com.eduex.studentservice</groupId>
     <artifactId>student-service</artifactId>
-    <version>1.0.0</version>
+    <version>dev-1</version>
     <packaging>jar</packaging>
     <name>Student Management Service</name>
 
